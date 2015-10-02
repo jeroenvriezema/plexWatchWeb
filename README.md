@@ -1,4 +1,4 @@
-plexWatch/Web - v1.5.4.2
+plexWatch/Web - v1.5.4.2 (Fork)
 ========================
 
 A web front-end for plexWatch.
